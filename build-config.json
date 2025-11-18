@@ -1,0 +1,18 @@
+{
+  "website_address": "https://intranet.wiut.uz/",
+  "app_name": "sdfghj",
+  "version_code": "1",
+  "version_name": "1.0.0",
+  "name_space": "com.sdfghj",
+  "has_custom_icon": false,
+  "build_type": "release",
+  "platform": "android",
+  "permissions": {
+    "camera": "disabled",
+    "location": "disabled",
+    "microphone": "disabled",
+    "notifications": "disabled",
+    "contacts": "disabled"
+  },
+  "created_at": "2025-11-18T07:27:36.186Z"
+}
